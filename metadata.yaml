@@ -1,0 +1,35 @@
+_repo: The-Seven-Cardinal-Sins--Envy-and-Indolence_38142
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Marcel, Adrian
+    gutenberg_agent_id: '36948'
+    url: http://www.gutenberg.org/2009/agents/36948
+covers:
+- cover_type: archival
+  image_path: 38142-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Marie Joseph
+    - Sue, Eugene
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: ''
+gutenberg_issued: '2011-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+title: 'The Seven Cardinal Sins: Envy and Indolence'
+url: http://www.gutenberg.org/ebooks/38142
